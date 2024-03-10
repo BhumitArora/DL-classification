@@ -1,6 +1,7 @@
 # DL-classification
 
 ### There are two files in this repo:
+### Link to the datasets is given in the files
 
 ### first one is implementing classification on mushroom dataset(numerical) using sklearn's mlp classifier and checking whether a mushroom with some given features is edible or not.
 
